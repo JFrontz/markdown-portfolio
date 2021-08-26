@@ -1,1 +1,1 @@
-[github profile] (https://github.com/JFrontz)
+[github](https://github.com/JFrontz)
