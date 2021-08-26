@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*Creativity*
+_Loud_
+
+**This text will be bold because it should be bold**
+__This will also be bold because I say so__
+
+_I **am** afraid of skeletons_
